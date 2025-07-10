@@ -44,6 +44,12 @@ function App() {
   return (
     <main style={{ padding: "20px" }}>
       <h1>crud</h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt sint,
+        reiciendis culpa magnam distinctio beatae numquam facere illum porro,
+        nisi debitis corrupti, perferendis modi cumque. Consequatur quia sint
+        exercitationem delectus.
+      </p>
 
       <input
         type="text"
